@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "texture_size": [64, 64],
+    "textures": {
+     "layer0": "item/firefly_bottle_2d"
+    }    
+}

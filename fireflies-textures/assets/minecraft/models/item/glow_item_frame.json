@@ -5,7 +5,8 @@
     },
    
     "overrides": [
-     { "predicate": {"custom_model_data": 4268}, "model": "item/firefly_bottle"}
+     { "predicate": {"custom_model_data": 4268}, "model": "item/firefly_bottle"},
+     { "predicate": {"custom_model_data": 4269}, "model": "item/firefly_bottle_2d"}
    
     ]
    
