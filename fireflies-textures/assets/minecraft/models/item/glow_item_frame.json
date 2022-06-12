@@ -1,0 +1,13 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+     "layer0": "item/glow_item_frame"
+    },
+   
+    "overrides": [
+     { "predicate": {"custom_model_data": 4268}, "model": "item/firefly_bottle"}
+   
+    ]
+   
+    
+}

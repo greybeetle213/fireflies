@@ -1,0 +1,4 @@
+execute as @e[tag=firefly_bottle] at @s unless block ~ ~ ~ minecraft:candle run summon item ~ ~ ~ {Item:{id:"minecraft:glow_item_frame",Count:1b,tag:{display:{Name:'{"text":"Firefly In A Bottle","italic":false}'},CustomModelData:4268,EntityTag:{Item:{id:"minecraft:glow_item_frame",Count:1b,tag:{CustomModelData:4268}},Invisible:1b,Fixed:1b,Tags:["firefly_bottle"],Facing:1b}}}}
+execute as @e[tag=firefly_bottle] at @s unless block ~ ~ ~ minecraft:candle run kill @e[nbt={Item:{id:"minecraft:candle"}}]
+execute as @e[tag=firefly_bottle] at @s unless block ~ ~ ~ minecraft:candle run kill @s
+scoreboard players reset @a candles_mined
