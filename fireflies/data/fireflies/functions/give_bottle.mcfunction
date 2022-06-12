@@ -1,1 +1,1 @@
-give @s glow_item_frame{display:{Name:'{"text":"Firefly In A Bottle","italic":false}'},CustomModelData:4268,EntityTag:{Tags:["firefly_bottle"],Facing:1b,Item:{id:"minecraft:glow_item_frame",Count:1b,tag:{CustomModelData:4268,EntityTag:{Fixed:1b}}},Invisible:1b,Fixed:1b}} 1
+give @s glow_item_frame{display:{Name:'{"text":"Firefly In A Bottle","italic":false}'},CustomModelData:4269,EntityTag:{Tags:["firefly_bottle"],Facing:1b,Item:{id:"minecraft:glow_item_frame",Count:1b,tag:{CustomModelData:4268,EntityTag:{Fixed:1b}}},Invisible:1b,Fixed:1b}} 1
